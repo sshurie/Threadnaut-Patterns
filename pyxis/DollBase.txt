@@ -1,0 +1,84 @@
+PYXIS DOLL BASE PATTERN
+
+SUPPLIES
+* 3.5 mm crochet hook
+* Worsted weight yarn in colors of your choosing for skin, hair, and clothing
+* 12 mm safety eyes
+* Fiberfil stuffing
+* Scissors
+* Yarn Needle
+* stitch marker
+* (optional) slicker brush to smooth out hair
+
+NEED TO KNOW / ABBREVIATIONS
+
+* Magic Circle (mc)
+* Single Crochet (sc)
+* Stitch (st)
+* Increase Stitch (inc)
+* Decrease Stitch (dec)
+* Slip Stitch (slst)
+* (#) - indicates the number of stitches for that row
+* *…* - repeat the sequence in asterisks until the end of the round
+* This pattern is worked in continuous rounds. Do not join at the end of each round (unless you prefer to) Place your stitch marker in the first stitch of each round.
+
+PATTERN
+HEAD
+1. 6 sc in mc (6)
+2. 2 sc in each st (12)
+3. *1 sc, inc* (18)
+4. *2 sc, inc* (24)
+5. *3 sc, inc* (30)
+6. *4 sc, inc* (36)
+7. *5 sc, inc* (42)
+8. *6 sc, inc* (48)
+9. *7 sc, inc* (54)
+10. 1 sc in each st around (54)
+11. 1 sc in each st around (54)
+12. 1 sc in each st around (54)
+13. 1 sc in each st around (54)
+14. 1 sc in each st around (54)
+15. 1 sc in each st around (54)
+16. 1 sc in each st around (54)
+17. 1 sc in each st around (54)
+18. 1 sc in each st around (54)
+19. *7 sc, dec* (48)
+20. *6 sc, dec* (42)
+21. *5 sc, dec* (36)
+22. *4 sc, dec* (30)
+23. *3 sc, dec* (24)
+Add 12 mm safety eyes between rounds 17 and 18, 10 visible stitches apart. Begin stuffing the head and add more as you finish the next two rounds.
+24. *2 sc, dec* (18)
+25. *1sc, dec* (12)
+End of head, do not finish off. You will continue on to the body. Change colors for clothing if desired.
+
+BODY
+26. *5 sc, inc* (14)
+27. *6 sc, inc* (16)
+28. *7 sc, inc* (18)
+29. *8 sc, inc* (20)
+30. *9 sc, inc* (22)
+31. *10 sc, inc* (24)
+32. 1 sc in each st (24)
+33. *5 sc, inc* (26)
+34. 1 sc in each st (26)
+35. *5 sc, inc* (28)
+36. 1 sc in each st (28)
+37. 1 sc in each st (28)
+38. 1 sc in each st (28)
+39. 1 sc in each st (28)
+40. 1 sc in each st (28)
+41. 1 sc in each st (28)
+42. 1 sc in each st (28)
+43. *6 sc, inc* (30)
+44. 1 sc in each st (30)
+45. 1 sc in each st (30)
+End of body, do not finish off. Stuff body before continuing on to the legs.
+
+LEGS
+
+
+
+
+
+
